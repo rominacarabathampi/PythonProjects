@@ -3,9 +3,9 @@ Prediction of COVID-19 in Canada for the month of June using data
 from the month of May
 
 Feel free to download the updated data from here
-https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html#a1
-and run an up-to-date prediction
-
+https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
+then click on "Current situation" link which will show graphs related to data in Canada.
+There is a button for downloading the most recent data.
 """
 
 import pandas as pd
